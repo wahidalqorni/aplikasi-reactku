@@ -12,7 +12,7 @@ class App extends Component {
           <p>Have a good day</p>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Sebaik-baik manusia <code>adalah</code> yang paling bermanfaat bagi Manusia (HR.Ahmad).
         </p>
       </div>
     );
